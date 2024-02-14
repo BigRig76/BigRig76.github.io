@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adam In Kyrgyzstan 2024</title>
-    <link>https://github.com/BigRig76/peacecorps2024.git/</link>
-    <description>Recent content on Adam In Kyrgyzstan 2024</description>
+    <title>Posts on Adam In Kyrgyzstan 2024</title>
+    <link>https://github.com/BigRig76/peacecorps2024.git/post/</link>
+    <description>Recent content in Posts on Adam In Kyrgyzstan 2024</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 14 Feb 2024 15:57:58 +0600</lastBuildDate>
-    <atom:link href="https://github.com/BigRig76/peacecorps2024.git/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/BigRig76/peacecorps2024.git/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
       <link>https://github.com/BigRig76/peacecorps2024.git/post/chapter-1/</link>
       <pubDate>Wed, 14 Feb 2024 15:57:58 +0600</pubDate>
       <guid>https://github.com/BigRig76/peacecorps2024.git/post/chapter-1/</guid>
       <description>My First Impression of Toktogul content here&amp;hellip;.</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://github.com/BigRig76/peacecorps2024.git/about/</link>
-      <pubDate>Wed, 14 Feb 2024 15:57:10 +0600</pubDate>
-      <guid>https://github.com/BigRig76/peacecorps2024.git/about/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
